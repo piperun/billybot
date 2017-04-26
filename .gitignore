@@ -1,0 +1,10 @@
+*.log
+
+# folders
+
+node_modules/
+
+
+# settings
+
+settings-development.json*
