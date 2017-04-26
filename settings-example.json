@@ -1,0 +1,34 @@
+{
+  "isDevelopment": true,
+  "isProduction": false,
+  "public": {
+  },
+  "private": {
+  },
+  "discord": {
+    "prefix": "!",
+  	"token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  	"clientID": "xxxxxxxxxxxxxxxxxx",
+  	"secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "lastfm": {
+    "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "imdb": {
+    "cookie": "xxxxxx..."
+  },
+  "eol": {
+    "channelId": "xxxxxxxxxxxxxxxxxx"
+  },
+  "recsource": {
+    "api_key": "xxxxx..."
+  },
+  "trello": {
+    "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "boardId": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "channelId": "xxxxxxxxxxxxxxxxxx"
+  }
+}
