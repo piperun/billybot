@@ -71,7 +71,7 @@ Lets other players know you want to play Counter-Strike: Global Offensive
 
 ## Deprecation
 - Any EOL feature or at the very least restructure it to be a module and not part of the bot
-
+- Any mentioning of G2A within the bot - due to questionable business practices
 
 ## Coming soon
 - rewrite of the code to try and be more modular nad have a package like oriented system
