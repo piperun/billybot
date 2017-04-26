@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -9,6 +10,10 @@
 
 *.swp
 
+=======
+*.log
+
+>>>>>>> 478b6149b5fe37b7e07f6b2b9a1633e3b664959a
 # folders
 
 node_modules/

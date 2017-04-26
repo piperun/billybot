@@ -1,0 +1,6 @@
+*.log
+
+
+# settings
+
+settings-development.json*
