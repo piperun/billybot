@@ -1,4 +1,4 @@
-# botman - the [ElastoMania Discord](http://tinyurl.com/elmadiscord) bot
+# Billy Herrington 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Discord](https://discordapp.com/api/guilds/207629806513160192/widget.png)](https://discord.gg/j5WMFC6)
 
 Project includes a multi-purpose Discord bot based on [discord.js](https://github.com/hydrabolt/discord.js/) and a stats website built with [Meteor](https://meteor.com).
