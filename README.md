@@ -1,4 +1,4 @@
-# Billy Herrington - The Aniki bot for ![Discord](https://discordapp.com/assets/4ff060e44afc171e9622fbe589c2c09e.png)
+# Billy Herrington - The Aniki bot for [![Discord](https://discordapp.com/assets/4ff060e44afc171e9622fbe589c2c09e.png)]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Discord](https://discordapp.com/api/guilds/207629806513160192/widget.png)](https://discord.gg/j5WMFC6)
 
 Project includes a multi-purpose Discord bot based on [discord.js](https://github.com/hydrabolt/discord.js/) and a stats website built with [Meteor](https://meteor.com).
