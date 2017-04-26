@@ -2,7 +2,7 @@ import _ from 'lodash'
 import Loggables from './loggables'
 
 let Responses = {
-  'github': 'https://github.com/nodepowered/botman',
+  'github': 'https://github.com/piperun/anikibot',
   'trello': 'https://trello.com/b/WyGGKT38/elma-discord',
   'trello-invite': 'https://trello.com/invite/b/WyGGKT38/c9897d93b477490ebfd2edff242cc49f/elma-discord',
   'playlist': 'http://tinyurl.com/musicmanautoplaylist',
