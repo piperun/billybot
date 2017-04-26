@@ -1,4 +1,4 @@
-# Billy Herrington - The Aniki bot for ![Discord][Discord-logo]
+# Billy Herrington - The Aniki bot for ## ![Discord][Discord-logo]
 
 [Discord-logo]: https://discordapp.com/assets/4ff060e44afc171e9622fbe589c2c09e.png
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Discord](https://discordapp.com/api/guilds/207629806513160192/widget.png)](https://discord.gg/j5WMFC6)
