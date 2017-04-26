@@ -2,7 +2,6 @@
 ![Discord][Discord-logo]
 
 [Discord-logo]: https://discordapp.com/assets/4ff060e44afc171e9622fbe589c2c09e.png 
-[//]: <> ([![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Discord](https://discordapp.com/api/guilds/207629806513160192/widget.png)](https://discord.gg/j5WMFC6))
 
 Project includes a multi-purpose Discord bot based on [discord.js](https://github.com/hydrabolt/discord.js/) and a stats website built with [Meteor](https://meteor.com).
 
@@ -11,10 +10,6 @@ A fork from https://github.com/elmadev/botman
 Currently in a working but not so working state.
 
 Feel free to contribute.
-
-[//]: <> (
-## Feedback and suggestions
-Use [Trello](https://trello.com/b/WyGGKT38/elma-discord) to report bugs and suggest new features or improvements, share ideas, etc. )
 
 ## Commands
 Format: `!command [optional argument] [multiple | choice | argument] <required argument>`
