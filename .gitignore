@@ -1,0 +1,19 @@
+
+
+
+# logs
+
+*.log
+
+# swap
+
+*.swp
+
+# folders
+
+node_modules/
+
+
+# settings
+
+settings-development.json*
