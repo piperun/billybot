@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "command": "csgo",
+    "aliases": ["cs"],
+    "steam": "http://store.steampowered.com/app/730/",
+    "g2a": "https://www.g2a.com/counter-strike-global-offensive-global.html",
+    "emoji": ":gun:"
+  },
+  {
+    "name": "Don't Starve Together",
+    "command": "starve",
+    "aliases": ["dontstarve", "ds"],
+    "steam": "http://store.steampowered.com/app/322330/",
+    "g2a": "https://www.g2a.com/don-t-starve-together-beta-steam-cd-key-global.html",
+    "emoji": ":fire:"
+  },
+  {
+    "name": "Rocket League",
+    "command": "rocket",
+    "aliases": ["rl", "roket", "rocketleague", "carfutbol"],
+    "steam": "http://store.steampowered.com/app/252950/",
+    "g2a": "https://www.g2a.com/rocket-league-steam-cd-key-global.html",
+    "emoji": ":rocket: :red_car: :soccer:"
+  },
+  {
+    "name": "Worms Armageddon",
+    "command": "worm",
+    "aliases": ["worms"],
+    "steam": "http://store.steampowered.com/app/217200/",
+    "g2a": "https://www.g2a.com/worms-armageddon-steam-cd-key-global.html",
+    "emoji": ":bug:"
+  }
+]
