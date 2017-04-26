@@ -68,10 +68,15 @@ Lets other players know you want to play Rocket League
 ###`!csgo`
 Lets other players know you want to play Counter-Strike: Global Offensive
 
+
+## Deprecation
+- Any EOL feature or at the very least restructure it to be a module and not part of the bot
+
+
 ## Coming soon
-- EOL chat feed in Discord and messaging from Discord to EOL chat
-- Stats website
-- Profile management in the website
+- rewrite of the code to try and be more modular nad have a package like oriented system
+- certain mod features such as putting on rules and what not
+
 
 ## Development starting guide:
 - Install Meteor
