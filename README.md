@@ -77,8 +77,11 @@ Lets other players know you want to play Counter-Strike: Global Offensive
 - rewrite of the code to try and be more modular and have a package like oriented system
 - certain mod features such as putting on rules and what not
 - restructure of the settings.json file.
-- reconstruct the command into being a dictionary.
-- Fix the website 
+- reconstruct the commands being tied to the module itself and having it send the command to an array which then is parsed on a lookup table.
+- ~ Fix the website ~ Make sure the website will survive the updates to the packages.
+- **VERY FAR HEAD** Try and get meteor to use node v6
+
+
 
 
 ## Development starting guide:
