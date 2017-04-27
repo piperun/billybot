@@ -78,7 +78,7 @@ Lets other players know you want to play Counter-Strike: Global Offensive
 - certain mod features such as putting on rules and what not
 - restructure of the settings.json file.
 - reconstruct the commands being tied to the module itself and having it send the command to an array which then is parsed on a lookup table.
-- ~ Fix the website ~ Make sure the website will survive the updates to the packages.
+- ~~Fix the website~~ Works somewhat for now.
 - **VERY FAR HEAD** Try and get meteor to use node v6
 
 
