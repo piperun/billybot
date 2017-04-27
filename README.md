@@ -54,6 +54,7 @@ Set or update a profile setting such as:
 - `games`: List of games looking for players you want to be notified about (worms, csgo, rocketleague)
 
 `!lastfm [username]`
+
 Shows last song played on Last.fm
 
 ###`!rand [min] [max]`
