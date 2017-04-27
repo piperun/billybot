@@ -77,7 +77,7 @@ Lets other players know you want to play Counter-Strike: Global Offensive
 - rewrite of the code to try and be more modular nad have a package like oriented system
 - certain mod features such as putting on rules and what not
 - restructure of the settings.json file.
-
+- Fix the website 
 
 
 ## Development starting guide:
