@@ -1,11 +1,15 @@
-function loadModules() {
-	let modules = Meteor.settings.modules
+import * as modules from '../../modules/bot/'
 
-	console.log("hi");
-	console.log(modules);
 
-	for(module in modules) {
-		console.log(module);
+
+export function loadModules() {
+	let mods = Meteor.settings.modules
+
+	
+	console.log(mods);
+
+	for(mod in mods) {
+		console.log(mods[mod]);
 	}
 
 }
