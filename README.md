@@ -53,7 +53,7 @@ Set or update a profile setting such as:
 - `rocket`: Link to Rocket League Rank profile
 - `games`: List of games looking for players you want to be notified about (worms, csgo, rocketleague)
 
-###`!lastfm [username]`
+### `!lastfm [username]`
 Shows last song played on Last.fm
 
 ###`!rand [min] [max]`
