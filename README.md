@@ -12,7 +12,7 @@ Currently in a working but not so working state.
 Feel free to contribute.
 
 ## Commands
-Format: `!command [optional argument] [multiple | choice | argument] <required argument>`
+Format: ` @prefix@command [optional argument] [multiple | choice | argument] <required argument>`
 
 ###`!log <item>`
 Logs an item. Shorthands for common items available such as: `!bear`, `!cofe`, etc. - see !loggables
@@ -76,6 +76,8 @@ Lets other players know you want to play Counter-Strike: Global Offensive
 ## Coming soon
 - rewrite of the code to try and be more modular nad have a package like oriented system
 - certain mod features such as putting on rules and what not
+- restructure of the settings.json file.
+
 
 
 ## Development starting guide:

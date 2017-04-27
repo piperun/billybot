@@ -23,6 +23,8 @@ import { imdbTop } from '../../../api/imdb/server/imdb-top.js'
 import { recSourceHandler } from '../../../modules/recsource.js'
 import { trelloStartup, trelloHandler } from '../../../modules/trello-webhook.js'
 
+import { loadModules } from '../../../api/settings/modules.js'
+
 export default function () {
   let bot = new Discord.Client()
   let settings = Meteor.settings.discord
@@ -32,6 +34,8 @@ export default function () {
     'api_key': Meteor.settings.lastfm.api_key,
     'secret': Meteor.settings.lastfm.secret
   })
+
+  loadModules();
 
 /*
   // Trello webhook
@@ -85,6 +89,8 @@ export default function () {
     let user = bot.users.get(discordId)
     return user ? user.mention() : 'Deleted User'
   }
+
+
 
   bot.on('ready', () => {
     console.log(`Ready in ${bot.channels.length} channels on ${bot.servers.length} servers, for a total of ${bot.users.length} users.`)

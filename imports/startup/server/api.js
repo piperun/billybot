@@ -20,3 +20,4 @@ import '../../api/chatlog/server/register-chatlog.js'
 
 import '../../api/musichistory/methods.js'
 import '../../api/musichistory/server/publications.js'
+
