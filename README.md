@@ -55,7 +55,7 @@ Set or update a profile setting such as:
 
 `!lastfm [username]`
 
-		Shows last song played on Last.fm
+Shows last song played on Last.fm
 
 ###`!rand [min] [max]`
 Returns a random number between 0-100 or optionally between specified min and max

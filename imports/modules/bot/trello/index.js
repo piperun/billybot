@@ -1,6 +1,7 @@
+import { Picker } from 'meteor/meteorhacks:picker'
+import { trelloStartup, trelloHandler } from '../../../modules/trello-webhook.js'
+
 export default function Trello() {
-	console.log("hello world!");
-	/*
   // Trello webhook
   let trelloChannel = Meteor.settings.trello.channelId
 
@@ -41,6 +42,4 @@ export default function Trello() {
     })
     return id || '404'
   }
-
-*/
 }
